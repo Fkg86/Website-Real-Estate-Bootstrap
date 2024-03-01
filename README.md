@@ -6,6 +6,7 @@ A responsive Bootstrap website project was developed.
 
 - HTML
 - CSS
+- BOOTSTRAP
 
 # Screenshots
 
