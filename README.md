@@ -15,10 +15,10 @@ A responsive Bootstrap website project was developed.
 
 # Videos
 
-![](Real Estate_BS_Project_2.mp4)
-![](Real Estate_BS_Project.mp4)
+![](Real_Estate_BS_Project_2.mp4)
+![](Real_Estate_BS_Project.mp4)
 
 # GIF
 
-![](Real Estate_BS_Project.gif)
-![](Real Estate_BS_Project_2.gif)
+![](Real_Estate_BS_Project.gif)
+![](Real_Estate_BS_Project_2.gif)
